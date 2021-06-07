@@ -1,5 +1,7 @@
 package com.registration.dao;
 
+import javax.servlet.*;
+import javax.servlet.http.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
